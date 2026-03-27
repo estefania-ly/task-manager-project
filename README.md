@@ -1,4 +1,4 @@
-# Task Manager (Python)
+# Welcome to Estefania's Task Manager!
 
 This is a beginner-friendly command-line task manager built using Python.
 
